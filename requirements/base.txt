@@ -1,0 +1,9 @@
+django==4.1.4
+pillow
+pyjwt
+django-dotenv
+djangorestframework
+django-cors-headers
+django-admin-interface
+drf-spectacular
+pydantic
